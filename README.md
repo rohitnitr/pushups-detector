@@ -1,5 +1,3 @@
-# pushups-detector
-To generate a README file for your push-up detector project, you can follow the template below:
 
 # Push-Up Detector
 
